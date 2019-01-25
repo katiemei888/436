@@ -12,6 +12,7 @@
 		DA19B88221FB6F1700B68E31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA19B88021FB6F1700B68E31 /* Main.storyboard */; };
 		DA19B88421FB6F1800B68E31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA19B88321FB6F1800B68E31 /* Assets.xcassets */; };
 		DA19B88721FB6F1800B68E31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA19B88521FB6F1800B68E31 /* LaunchScreen.storyboard */; };
+		DA19B88F21FB746B00B68E31 /* Restaurants.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA19B88E21FB746B00B68E31 /* Restaurants.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DA19B88321FB6F1800B68E31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA19B88621FB6F1800B68E31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA19B88821FB6F1800B68E31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA19B88E21FB746B00B68E31 /* Restaurants.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Restaurants.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DA19B87C21FB6F1700B68E31 /* AppDelegate.swift */,
 				DA19B87E21FB6F1700B68E31 /* ViewController.swift */,
 				DA19B88021FB6F1700B68E31 /* Main.storyboard */,
+				DA19B88E21FB746B00B68E31 /* Restaurants.plist */,
 				DA19B88321FB6F1800B68E31 /* Assets.xcassets */,
 				DA19B88521FB6F1800B68E31 /* LaunchScreen.storyboard */,
 				DA19B88821FB6F1800B68E31 /* Info.plist */,
@@ -125,6 +128,7 @@
 				DA19B88721FB6F1800B68E31 /* LaunchScreen.storyboard in Resources */,
 				DA19B88421FB6F1800B68E31 /* Assets.xcassets in Resources */,
 				DA19B88221FB6F1700B68E31 /* Main.storyboard in Resources */,
+				DA19B88F21FB746B00B68E31 /* Restaurants.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
